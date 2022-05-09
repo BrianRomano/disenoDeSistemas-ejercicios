@@ -1,0 +1,43 @@
+package ar.edu.davinci.jpa.servicio;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import ar.edu.davinci.jpa.modelo.Persona;
+import ar.edu.davinci.jpa.repository.PersonaDao;
+
+@Service("personaService")
+@Transactional
+public class PersonaServiceImpl implements PersonaService {
+
+    @Autowired
+    private PersonaDao personaDao;
+
+    @Override
+    public List<Persona> listarPersonas() {
+        return personaDao.findAllPersonas();
+    }
+
+    @Override
+    public Persona recuperarPersona(Persona persona) {
+        return personaDao.findPersonaById(persona.getIdPersona());
+    }
+
+    @Override
+    public void agregarPersona(Persona persona) {
+        personaDao.insertPersona(persona);
+    }
+
+    @Override
+    public void modificarPersona(Persona persona) {
+        personaDao.updatePersona(persona);
+    }
+
+    @Override
+    public void eliminarPersona(Persona persona) {
+        personaDao.deletePersona(persona);
+    }
+}

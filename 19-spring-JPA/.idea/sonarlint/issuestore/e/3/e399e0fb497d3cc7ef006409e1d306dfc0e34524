@@ -1,0 +1,27 @@
+
+bsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(–²
+bsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(óöú´
+bsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(­¬ËÎ
+bsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(‰‰áŒ
+bsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(’Úí
+gsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(î©–øÿÿÿÿ
+gsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(Ó¤ÿÆûÿÿÿÿ
+gsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(«»×šýÿÿÿÿ
+gsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(ÂèÐõþÿÿÿÿ
+bsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(®³ñ¡
+bsquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.(óöú´
+gsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(ÅË“Ãÿÿÿÿÿ
+bsquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(â¦Þ¥
+gsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(áóÀûÿÿÿÿ
+gsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(œäÃ¤ýÿÿÿÿ
+csquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(Éþ™¾
+bsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(Ýú{
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£æÑÁþÿÿÿÿ
+csquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(ÊÉ¥¨
+hsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(Ž¢ñþÿÿÿÿ
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+Nsquid:S1135?"2Complete the task associated to this TODO comment.(¿±êÚûÿÿÿÿ
+Nsquid:S1135z"2Complete the task associated to this TODO comment.(¿±êÚûÿÿÿÿ
+ksquid:S00100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þé¨øÿÿÿÿ
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(‡°œàøÿÿÿÿ
